@@ -1,0 +1,10 @@
+.idea/
+target/
+*.iml
+deploy/docker/output/app.jar
+deploy/docker/output/*
+
+# Eclipse
+.classpath
+.project
+.settings/
